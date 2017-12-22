@@ -1,9 +1,7 @@
 <?php
 
-    echo "Olá mundo";
+    echo "Olá mundo!";
+
+    echo "Olá marcelo!";
 
 ?>
-
-<div class="">
-  teste
-</div>
