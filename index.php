@@ -5,7 +5,3 @@
     echo "Olá, Udemy!";
 
 ?>
-
-<div class="">
-  teste
-</div>
